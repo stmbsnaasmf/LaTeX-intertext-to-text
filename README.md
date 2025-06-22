@@ -1,0 +1,1 @@
+A simple program to help convert LaTeX align blocks with intertext{} to MathJax becasue Mathjax does not support intertext{}. This program replaces all \intertext{Some text} occurences with \text{}\\\text{Some text}\\\text{}\\.
